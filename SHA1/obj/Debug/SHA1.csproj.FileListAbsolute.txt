@@ -1,0 +1,6 @@
+C:\Users\SalihOgun\source\repos\SHA1\SHA1\bin\Debug\SHA1.exe.config
+C:\Users\SalihOgun\source\repos\SHA1\SHA1\bin\Debug\SHA1.exe
+C:\Users\SalihOgun\source\repos\SHA1\SHA1\bin\Debug\SHA1.pdb
+C:\Users\SalihOgun\source\repos\SHA1\SHA1\obj\Debug\SHA1.csprojAssemblyReference.cache
+C:\Users\SalihOgun\source\repos\SHA1\SHA1\obj\Debug\SHA1.exe
+C:\Users\SalihOgun\source\repos\SHA1\SHA1\obj\Debug\SHA1.pdb
